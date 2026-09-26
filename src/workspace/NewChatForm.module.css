@@ -1,0 +1,11 @@
+.form {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: start;
+  gap: 8px;
+}
+
+/* Aligns the button with the input, below the field label (14px × 1.45 line height + 6px gap). */
+.form > button {
+  margin-top: 26px;
+}

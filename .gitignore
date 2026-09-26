@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+.vercel
+.DS_Store
+.env
+.env.*
+.vitest
